@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mudita Bhowmick.
+- 👀 I’m interested in the fields of Data Science.
+- 🌱 I’m currently learning Machine Learning Algorithms.
+- 💞️ I’m looking to collaborate on Data Science related projects.
+- 📫 Mail me for collabs: mudita.bhowmick10@gmail.com
